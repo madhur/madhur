@@ -13,6 +13,7 @@
 <br />
 
 
-- 🔭 I’m currently working on my project [HDD Usage in Electron](https://github.com/madhur/hdd-usage-electron)
+- 🔭 I’m currently working on my project [Leetcode format](https://github.com/madhur/leetcode-format-chrome-extension)
+- Download the chrome extension from [here](https://chrome.google.com/webstore/detail/leetcode-format/imogghebhifnnlgogigikjecilkicfpp?hl=en)
 - 🌱 I’m currently learning GraphQL 
-- 💬 Ask me about anything [here](https://github.com/madhur/madhur/issues)
+- 💬 Ask me about anything [here](https://www.madhur.co.in/contact/)
