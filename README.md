@@ -15,5 +15,5 @@
 
 - 🔭 I’m currently working on my project [Leetcode format](https://github.com/madhur/leetcode-format-chrome-extension)
 - Download the chrome extension from [here](https://chrome.google.com/webstore/detail/leetcode-format/imogghebhifnnlgogigikjecilkicfpp?hl=en)
-- 🌱 I’m currently learning GraphQL 
+- 🌱 I’m currently learning Web 3 / Blockchain 
 - 💬 Ask me about anything [here](https://www.madhur.co.in/contact/)
