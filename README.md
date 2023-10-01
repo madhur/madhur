@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my project [i3auto-ws-icons-rust](https://github.com/madhur/i3auto-ws-icons-rust)
 - Previously worked on [Leetcode format](https://github.com/madhur/leetcode-format-chrome-extension)
 - Download the chrome extension from [here](https://chrome.google.com/webstore/detail/leetcode-format/imogghebhifnnlgogigikjecilkicfpp?hl=en)
-- 🌱 I’m currently learning Rust / AWS
+- 🌱 I’m currently learning GoLang / AWS
 - 💬 Ask me about anything [here](https://www.madhur.co.in/contact/)
 
 ## 🌐 Contacts:
