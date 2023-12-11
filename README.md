@@ -1,10 +1,10 @@
-### Hi there, I'm [Madhur!](https://madhur.co.in) 👋
+### Hi there, I'm [Madhur!](https://madhur.co.in) 
 
 
 
 - 🔭 I’m currently working on [TabCarousel](https://github.com/TabCarousel/TabCarousel) 
 - Previously worked on [Leetcode format](https://github.com/madhur/leetcode-format-chrome-extension) and [i3auto-ws-icons-rust](https://github.com/madhur/i3auto-ws-icons-rust)
-- Download the chrome extension from [here](https://chrome.google.com/webstore/detail/leetcode-format/imogghebhifnnlgogigikjecilkicfpp?hl=en)
+- Download the [Leetcode format](https://github.com/madhur/leetcode-format-chrome-extension) chrome extension [here](https://chrome.google.com/webstore/detail/leetcode-format/imogghebhifnnlgogigikjecilkicfpp?hl=en)
 - 🌱 I’m currently learning GoLang / AWS
 - 💬 Ask me about anything [here](https://www.madhur.co.in/contact/)
 
