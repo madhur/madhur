@@ -2,10 +2,10 @@
 
 
 
-- 🔭 I’m currently working on [TabCarousel](https://github.com/TabCarousel/TabCarousel) 
+- 🔭 I’m currently working on [TabCarousel](https://github.com/TabCarousel/TabCarousel). Download the [chrome extension](https://chromewebstore.google.com/detail/tabcarousel/ddldimidiliclngjipajmjjiakhbcohn)
 - Previously worked on [Leetcode format](https://github.com/madhur/leetcode-format-chrome-extension) and [i3auto-ws-icons-rust](https://github.com/madhur/i3auto-ws-icons-rust)
-- Download the [Leetcode format](https://github.com/madhur/leetcode-format-chrome-extension) chrome extension [here](https://chrome.google.com/webstore/detail/leetcode-format/imogghebhifnnlgogigikjecilkicfpp?hl=en)
-- 🌱 I’m currently learning GoLang / AWS
+- Download the [Leetcode format](https://github.com/madhur/leetcode-format-chrome-extension) [chrome extension](https://chrome.google.com/webstore/detail/leetcode-format/imogghebhifnnlgogigikjecilkicfpp?hl=en)
+- 🌱 I’m currently learning GoLang
 - 💬 Ask me about anything [here](https://www.madhur.co.in/contact/)
 
 ## 🌐 Contacts:
