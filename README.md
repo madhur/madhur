@@ -4,7 +4,7 @@ Below are some of my open source projects I have worked upon:
 
 - Worked on [TabCarousel](https://github.com/TabCarousel/TabCarousel). Download the [chrome extension](https://chromewebstore.google.com/detail/tabcarousel/ddldimidiliclngjipajmjjiakhbcohn)
 - Worked on [Leetcode format](https://github.com/madhur/leetcode-format-chrome-extension). Download the [chrome extension](https://chrome.google.com/webstore/detail/leetcode-format/imogghebhifnnlgogigikjecilkicfpp?hl=en)
-- Worked on Vocab builder. wnload the [Vocab builder Android app](https://play.google.com/store/apps/details?id=in.co.madhur.vocabbuilder)
+- Worked on Vocab builder. Download the [Vocab builder Android app](https://play.google.com/store/apps/details?id=in.co.madhur.vocabbuilder)
 - 🌱 I’m currently learning GoLang
 - 💬 Ask me about anything [here](https://www.madhur.co.in/contact/)
 
